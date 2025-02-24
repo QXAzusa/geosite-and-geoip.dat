@@ -45,3 +45,4 @@ windowsupdate.com
 download.visualstudio.microsoft.com
 update.code.visualstudio.com
 autopatchos.starrails.com
+fubonchina.com
